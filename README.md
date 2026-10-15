@@ -47,6 +47,9 @@ The training combines:
 - Independent exploration
 - Collaborative problem-solving
 
+➡️ This phase is completed already. You can **[watch RECORDINGS here!](https://www.youtube.com/playlist?list=PLL5to9plRtNI)**
+
+
 ### Phase 2 — Group Project (In Progress)
 
 📅 **October 12–23, 2026**
