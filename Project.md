@@ -26,7 +26,7 @@ After completing final submission, team's project repository is to be added to t
 ### 4. Jehovah-nissi Njoagwuani and Michael Mokuolu
 | Team Name | Project Title | Brief Description | Project Repository |
 |-----------|---------------|-------------------|--------------------|
-| Team Minq | Sample-Based Quantum Diagonalization (SQD): Completing Challenge Notebooks 01 to 03 |We will complete the SQD challenge notebooks in the repository (01_sample_then_diagonalize, 02_molecules_as_bitstrings and 03_the_full_sqd_pipeline), working through all of their exercises and checkpoints. SQD samples bitstrings from a quantum circuit, crops the molecular Hamiltonian to the sampled configurations, and diagonalizes it classically. We will build the pipeline step by step across the three notebooks, from a toy magnet model to H2 to stretched N2, and make sure both of us can explain every stage. |    to be added after project submission |
+| Team Minq | Sample-Based Quantum Diagonalization (SQD): Completing Challenge Notebooks 01 to 03 |We will complete the SQD challenge notebooks in the repository (01_sample_then_diagonalize, 02_molecules_as_bitstrings and 03_the_full_sqd_pipeline), working through all of their exercises and checkpoints. SQD samples bitstrings from a quantum circuit, crops the molecular Hamiltonian to the sampled configurations, and diagonalizes it classically. We will build the pipeline step by step across the three notebooks, from a toy magnet model to H2 to stretched N2, and make sure both of us can explain every stage. |    https://github.com/HOVA63/Team-Minq |
 
 ### 5. Richard Sanasi Joshua and Solomon Oluwarotimi Oki
 | Team Name | Project Title | Brief Description | Project Repository |
