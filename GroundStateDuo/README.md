@@ -25,7 +25,7 @@ overestimates the binding energy by about 1.6 eV at 3 A; spin-broken-symmetry PB
 - `h2_dft_local.sh`, `analyse_dft.py`: Quantum ESPRESSO scan (restricted and spin-broken) and analysis, local-computer version.
 - `dft_convergence.txt`: cutoff and box-size tests at 0.74 A (60 to 80 Ry changes the energy by about 8e-6 Ha; boxes of 18 to 30 bohr agree within about 4e-6 Ha at 50 Ry).
 - `h2_comparison.png`, `h2_curve_explained.png`: the comparison plot and the annotated curve.
-- The cluster scripts (`h2_dft.sh`, job files) and `dft_curve.csv` (restricted and spin-broken energies in Ha) are to be added.
+- Cluster files: h2_dft.sh and job_h2_*.sh (Quantum ESPRESSO runs on the ICTP-EAIFR cluster); dft_curve.csv (restricted and spin-broken energies, 23 distances); dft_far.csv (stretched points); dft_atom.csv (single H-atom run, unstable and not used for the results).
 
 ## Settings
 
