@@ -181,10 +181,10 @@ This will serve as a record of the projects developed during the **UIQC Club Qis
 All submitted projects will be evaluated using a standardized
 100-point assessment rubric.
 
-The three highest-scoring projects will be recognized.
+The three highest-scoring projects will be recognized.  
 
-For detailed evaluation criteria, see the
-`Project Judging Criteria` under `Projects and Judgement`
+For detailed evaluation criteria, see the `Project Judging Criteria` under `Projects and Judgement`.
+
 ---
 
 ## Contact
