@@ -184,7 +184,7 @@ All submitted projects will be evaluated using a standardized
 The three highest-scoring projects will be recognized.
 
 For detailed evaluation criteria, see the
-[Project Judging Criteria]('Projects and judgement'/JUDGING_CRITERIA.md).
+[`Project Judging Criteria`](Projects_and_Judgement/JUDGING_CRITERIA.md).
 ---
 
 ## Contact
